@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I know a *little* bit of _**html**, **css** and **xml**_ etc. but know very **little** of anything else when it comes to programming languages.
